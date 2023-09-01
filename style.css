@@ -33,3 +33,16 @@ display:flex;
 .escola-titulo {
 padding: 24px 0;
 }
+
+.estudante-titulo{
+  text-align: center;
+}
+ text-aling: center;
+ padding: 50px 0;
+
+ <div class="estudante-todos">
+   <div class="estudante-div">
+   <img class="estudante-imagem "src="./img/Marcelo 1.png" alt="foto do estudante Marcelo">
+   <h3 class="estudante-nome">Marcelo</h3>
+   <img class="estudante-icone"scr="./img/instagram.png" alt="instagram">
+   <img class="estudante-icone"scr="./img/github.png" alt="Github">
