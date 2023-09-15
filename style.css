@@ -9,43 +9,14 @@ padding:0 ;}
              justify-content: space-around;
                padding: 24px 0;}
 
+
 .cabecalho-lista-item{
     display: inline-block;
         margin: 0 16px;
-          padding: 24px 0;
-            font-size: 24px;}
 
-.escola{
-background-image: liner-gradient(#383D58,#00c0eb);
-color: white;
-display:flex;
-}
-
-.escola-conteudo{
-  width: 35%;
   display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.escola-imagem{
-  width: 25%;
-}
-.escola-titulo {
-padding: 24px 0;
-}
+  justify-content: center}
 
-.estudante-titulo{
-  text-align: center;
-}
- text-aling: center;
- padding: 50px 0;
-
- <div class="estudante-todos">
-   <div class="estudante-div">
-   <img class="estudante-imagem "src="./img/Marcelo 1.png" alt="foto do estudante Marcelo">
-   <h3 class="estudante-nome">Marcelo</h3>
-   <img class="estudante-icone"scr="./img/instagram.png" alt="instagram">
-   <img class="estudante-icone"scr="./img/github.png" alt="Github">
 
 
   body{
