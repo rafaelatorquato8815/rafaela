@@ -46,3 +46,20 @@ padding: 24px 0;
    <h3 class="estudante-nome">Marcelo</h3>
    <img class="estudante-icone"scr="./img/instagram.png" alt="instagram">
    <img class="estudante-icone"scr="./img/github.png" alt="Github">
+
+
+  body{
+    font-family:'Poppins',sans-serif;
+  }
+
+  .estudante-imagem{
+    width: 120px;
+  }
+
+  .estudante-icone{
+    width: 24px;
+  }
+
+  .estudante-div{
+    text-align: center;
+  }
