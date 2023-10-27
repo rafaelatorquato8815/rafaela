@@ -4,7 +4,7 @@ padding:0 ;}
 
 .cabecalho{
   background-color:rgb(45, 69, 206);
-   color: rgb(206, 42, 42);
+   color: rgb(22, 21, 21);
      display:flex;
        justify-content: space-around;
          padding: 24px 0;}
@@ -19,7 +19,7 @@ padding:0 ;}
   
   .p1
    font-family: "Times New Roman", Times, serif;
-   .cabecalho{background-color:rgb(22, 51, 50);
+   .cabecalho{background-color:rgb(25, 206, 197);
       color: rgb(23, 44, 138);
       display:flex;
       justify-content:space-around;
@@ -33,7 +33,7 @@ padding:0 ;}
       }
 
   .escola{
-   background-image: -moz-linear-gradient(#0026ff);
+   background-image: -moz-linear-gradient(#353f7c);
    color:rgb(8, 119, 54);
    display: flex;
   }
@@ -84,7 +84,7 @@ padding:0 ;}
   
 
   footer{
-    background-color: black;
+    background-color: rgb(33, 107, 51);
     padding: 15 px 0;
     text-align: center;
   }
