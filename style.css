@@ -3,7 +3,7 @@
 padding:0 ;}
 
 .cabecalho{
-  background-color:rgb(45, 69, 206);
+  background-color:rgb(79, 105, 255);
    color: rgb(22, 21, 21);
      display:flex;
        justify-content: space-around;
@@ -19,7 +19,7 @@ padding:0 ;}
   
   .p1
    font-family: "Times New Roman", Times, serif;
-   .cabecalho{background-color:rgb(25, 206, 197);
+   .cabecalho{background-color:rgb(12, 160, 152);
       color: rgb(23, 44, 138);
       display:flex;
       justify-content:space-around;
@@ -46,7 +46,7 @@ padding:0 ;}
   }
 
   .escola-imagem{
-    widt: 25%;
+    widt: 40%;
   }
 
   .escola-titulo{
@@ -58,7 +58,7 @@ padding:0 ;}
   }
 
   .estudante-imagem{
-    width: 120px;
+    width: 90px;
   }
 
   .estudante-icone{
